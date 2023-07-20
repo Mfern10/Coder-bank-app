@@ -62,4 +62,4 @@ puts "\nWould you like to make another transaction Y/N?"
   break if another_transaction == 'N'
 end
 
-puts "Thank you have a nice day!"
+puts "Thank you have a nice day!!"
